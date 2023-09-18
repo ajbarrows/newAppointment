@@ -27,4 +27,6 @@ netID
     └── edit
 ```
 
-`download` is for storing clean copies of files clients provide. `edit` is for those files with the consultant's edits.
+`download` is for storing clean copies of files clients provide. `edit` is for those files with the consultant's edits. 
+
+Additional appointments (i.e., on other days) with the same client will not overwrite previous appointments.
