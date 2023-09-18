@@ -1,13 +1,16 @@
 # newAppointment
 Python script to quickly create a file structure for each UVM Graduate Writing Center consulting appointment.
 
-Usage:
+## Usage
 
-From a unix-like terminal (tested on macOS):
+Clone this repository to the location where you would like to save your GWC work (either clone or download and unpack this repository).
+
+
+Open a Terminal window from the From a unix-like terminal (tested on macOS Ventura: Right Click on the folder --> Services --> New Terminal at Folder):
 
 ```
-$ cd 00_newAppointment
-$ python3 newAppointment.py
+$ tony@Tonys-MacBook-Pro 00_newAppointment % 
+$ tony@Tonys-MacBook-Pro 00_newAppointment % python3 newAppointment.py
 
 ```
 You will see a user-input dialog:
